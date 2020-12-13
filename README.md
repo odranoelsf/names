@@ -1,5 +1,5 @@
 # names
 
-![./image.png](Rick)
+![image.png](Rick)
 
 Repositorio de testes
